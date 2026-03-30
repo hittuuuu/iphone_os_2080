@@ -28,26 +28,29 @@
 ## 🛸 Features
 
 ### Core Experience
+
 - 🔒 **Lock Screen** — DNA authentication simulation with swipe-up gesture unlock
 - 🏠 **Home Screen** — Holographic widgets, app grid, and AI quick-access card
 - 🏝️ **Dynamic Island** — Click to expand: shows ARIA AI status, neural metrics, waveform visualizer & notification badges
 - 🎯 **iPhone-style Navigation** — Home indicator bar, floating dock, swipe-back gesture, directional screen transitions
 
 ### 12 Interactive Screens
-| Screen | Description |
-|--------|-------------|
-| 🧠 **Neural Hub** | Real-time brain wave visualizer, cognitive metrics, thought log |
-| 🤖 **ARIA Chat** | Quantum AI assistant with simulated conversation |
-| ❤️ **Health Matrix** | Body scan silhouette, vitals monitoring, emotion radar chart |
-| ⚡ **Energy Core** | Zero-point energy visualization with spinning orbital rings |
-| 💬 **Quantum Messenger** | Encrypted communications with neural-link status indicators |
-| 🏛️ **Memory Palace** | Digital memory archive with timeline & quantum storage |
-| 🌐 **DimBrowser** | Dimensional web browser with `dim://` protocol |
-| 🔔 **Notifications** | Quick toggles grid & dismissable notification cards |
-| 📱 **App Drawer** | Category filters & search across 24 futuristic apps |
-| ⚙️ **Settings** | Neural Interface, Display, Privacy, AI & System configuration |
+
+| Screen                   | Description                                                     |
+| ------------------------ | --------------------------------------------------------------- |
+| 🧠 **Neural Hub**        | Real-time brain wave visualizer, cognitive metrics, thought log |
+| 🤖 **ARIA Chat**         | Quantum AI assistant with simulated conversation                |
+| ❤️ **Health Matrix**     | Body scan silhouette, vitals monitoring, emotion radar chart    |
+| ⚡ **Energy Core**       | Zero-point energy visualization with spinning orbital rings     |
+| 💬 **Quantum Messenger** | Encrypted communications with neural-link status indicators     |
+| 🏛️ **Memory Palace**     | Digital memory archive with timeline & quantum storage          |
+| 🌐 **DimBrowser**        | Dimensional web browser with `dim://` protocol                  |
+| 🔔 **Notifications**     | Quick toggles grid & dismissable notification cards             |
+| 📱 **App Drawer**        | Category filters & search across 24 futuristic apps             |
+| ⚙️ **Settings**          | Neural Interface, Display, Privacy, AI & System configuration   |
 
 ### Design & UX
+
 - 🌈 **"Quantum Aurora" Design System** — Neon Cyan, Holographic Purple, Neural Pink palette
 - 🪟 **Glassmorphism** — Frosted glass cards with backdrop blur throughout
 - ✨ **20+ Animations** — Glitch text, quantum spin, neural pulse, shimmer, and more
@@ -87,15 +90,15 @@ npm run preview   # Preview the production build
 
 ## 🏗️ Tech Stack
 
-| Technology | Role |
-|---|---|
-| [React 19](https://react.dev) | UI Framework |
-| [TypeScript 5.9](https://www.typescriptlang.org) | Type Safety |
-| [Vite 8](https://vite.dev) | Build Tool & Dev Server |
-| [Three.js](https://threejs.org) + [React Three Fiber](https://r3f.docs.pmnd.rs) | 3D Holographic Background |
-| [Framer Motion 12](https://motion.dev) | Screen Transitions & Animations |
-| [Zustand 5](https://zustand.docs.pmnd.rs) | State Management |
-| Vanilla CSS | Design System (no utility frameworks) |
+| Technology                                                                      | Role                                  |
+| ------------------------------------------------------------------------------- | ------------------------------------- |
+| [React 19](https://react.dev)                                                   | UI Framework                          |
+| [TypeScript 5.9](https://www.typescriptlang.org)                                | Type Safety                           |
+| [Vite 8](https://vite.dev)                                                      | Build Tool & Dev Server               |
+| [Three.js](https://threejs.org) + [React Three Fiber](https://r3f.docs.pmnd.rs) | 3D Holographic Background             |
+| [Framer Motion 12](https://motion.dev)                                          | Screen Transitions & Animations       |
+| [Zustand 5](https://zustand.docs.pmnd.rs)                                       | State Management                      |
+| Vanilla CSS                                                                     | Design System (no utility frameworks) |
 
 ## 📂 Project Structure
 
@@ -159,6 +162,6 @@ MIT License — feel free to use, modify, and build upon this project.
 ---
 
 <p align="center">
-  <sub>Built with ⚡ by a human imagination + AI collaboration</sub><br/>
+  <sub>Built with ⚡ by a Suncodevn</sub><br/>
   <sub><strong>ΩS 2080.1 SINGULARITY — CONCEPT PROTOTYPE</strong></sub>
 </p>
